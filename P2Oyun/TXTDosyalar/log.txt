@@ -1,0 +1,6 @@
+[2026-05-21 09:22:36] Giriş Denemesi - Girilen: '123' - Durum: BAŞARILI
+[2026-05-21 09:26:57] Giriş Denemesi - Girilen: '1235' - Durum: BAŞARISIZ (Hatalı Şifre)
+[2026-05-21 09:26:58] Giriş Denemesi - Girilen: '123512' - Durum: BAŞARISIZ (Hatalı Şifre)
+[2026-05-21 09:26:59] Giriş Denemesi - Girilen: '123512125' - Durum: BAŞARISIZ (Haklar tükendi)
+[2026-05-21 09:27:05] Giriş Denemesi - Girilen: '123' - Durum: BAŞARILI
+[2026-05-21 09:34:22] Giriş Denemesi - Girilen: '123' - Durum: BAŞARILI
