@@ -62,7 +62,7 @@ Ana oyun paneli, kullanıcı deneyimini optimize etmek adına **3 farklı sekmed
 
 1. **Oyun Sekmesi:** Aktif olarak kelime tahminlerinin yapıldığı, dar ağacı görselinin ve zamanlayıcının yer aldığı ana oyun alanıdır.
 2. **Skor Tablosu Sekmesi (`model1`):** `oyunlar.txt` dosyasından beslenir. Oyuncunun geçmişte tamamladığı oyunların listesini, "GALIBIYET" veya "MAGLUBIYET" durumlarını ve harcanan süreleri `JTable` üzerinde listeler.
-3. **Geçmiş Log Kayıtları Sekmesi (`model2`):** `log.txt` dosyasından beslenir. Uygulamaya yönelik gerçekleştirilen tüm başarılı ve başarısız giriş denemelerini, deneme yapılan hatalı şifre metinlerini ve işlem zamanını rapor eder.
+3. **Geçmiş Log Kayıtları Sekmesi (`model2`):** `log.txt` dosyasından beslenir. Uygulamaya yönelik gerçekleştirilen tüm başarılı ve başarısız giriş denemelerini, deneme yapılan hatalı şifre metinlerini ve işlem zamanını rapor eder..
 
 ---
 
